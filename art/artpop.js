@@ -1,8 +1,8 @@
 var html = '<h3> contents </h3>';
 
-var section1 = ['test', 'other test']
+var section1 = ['orang', '17_now']
 for (i = 0; i<section1.length; i++){
-	html += '<div class="navlink"><a href="' + section1[i] + '.html">' + section1[i] + '</a></div>'
+	html += '<div class="navlink"><a href="' + section1[i] + '.png">' + section1[i] + '</a></div>'
 }
 
 

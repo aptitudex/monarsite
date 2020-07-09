@@ -1,6 +1,6 @@
 var html = '<h3> contents </h3>';
 
-var section1 = ['orang', '17_now']
+var section1 = ['field_day', '17_now']
 for (i = 0; i<section1.length; i++){
 	html += '<div class="navlink"><a href="' + section1[i] + '.png">' + section1[i] + '</a></div>'
 }
